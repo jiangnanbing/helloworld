@@ -1,2 +1,5 @@
-duang hello
-sily boy tian
+class duang{
+    public static void main(String[] args) {
+        System.out.println("duangduangduang");
+    }
+}
